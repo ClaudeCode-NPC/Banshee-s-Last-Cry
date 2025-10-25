@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(*)",
+      "Write(*)",
+      "Skill(ch00_start)"
+    ]
+  }
+}

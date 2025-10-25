@@ -1,0 +1,33 @@
+{
+  "player_name": "玩家",
+  "current_chapter": "ch00_start",
+  "chapter_history": ["ch00_start"],
+  "alive_characters": ["透", "真理", "小林敏夫", "小林惠子", "佐藤健", "铃木美香", "田边晃", "大阪龙一", "大阪绫子", "田中一郎"],
+  "dead_characters": [],
+  "collected_clues": [],
+  "trust_levels": {
+    "真理": 100,
+    "小林敏夫": 50,
+    "小林惠子": 50,
+    "佐藤健": 30,
+    "铃木美香": 40,
+    "田边晃": 45,
+    "大阪龙一": 35,
+    "大阪绫子": 40,
+    "田中一郎": 20
+  },
+  "suspicion_points": {
+    "小林敏夫": 0,
+    "小林惠子": 0,
+    "佐藤健": 0,
+    "铃木美香": 0,
+    "田边晃": 0,
+    "大阪龙一": 0,
+    "大阪绫子": 0,
+    "田中一郎": 0
+  },
+  "player_choices": [],
+  "discovered_secrets": [],
+  "mental_state": 100,
+  "time_elapsed": "第一天晚上9点"
+}
